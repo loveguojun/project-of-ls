@@ -1,2 +1,2 @@
-<?php
-pfpinfo();
+phpinfo();
+echo("1");
